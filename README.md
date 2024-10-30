@@ -55,7 +55,7 @@ I enjoy working with cross-functional teams, continuously learning, and staying 
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 ![Maleke's GitHub stats](https://github-readme-stats.vercel.app/api?username=malekechaker&show_icons=true&theme=radical)
 
@@ -65,7 +65,7 @@ I enjoy working with cross-functional teams, continuously learning, and staying 
 
 
 ---
-
+-->
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/malekechaker)
