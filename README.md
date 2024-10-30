@@ -59,11 +59,17 @@ I enjoy working with cross-functional teams, continuously learning, and staying 
 
 ![Maleke's GitHub stats](https://github-readme-stats.vercel.app/api?username=malekechaker&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malekechaker&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=malekechaker&theme=radical)
+
+
 ---
 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/malekechaker)
+
 📧 **Email**: melekchaker@gmail.com  
 📱 **Phone**: (+216) 99 337 381  
 📍 **Localisation**: Boumhal, Ben Arouss, Tunisia  
